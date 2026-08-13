@@ -1,0 +1,2252 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Zach Holman",
+          "description": "Developer and speaker. Previously worked at GitHub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-02-23T11:59:21Z",
+            "owner": "holman",
+            "repo": "ama",
+            "stars": 725
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kent C. Dodds",
+          "description": "JavaScript dev, open source contributor, community builder, and speaker.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2020-12-02T18:43:41Z",
+            "owner": "kentcdodds",
+            "repo": "ama",
+            "stars": 683
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rachel Andrew",
+          "description": "CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-05-13T12:52:29Z",
+            "owner": "rachelandrew",
+            "repo": "cssgrid-ama",
+            "stars": 328
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wes Bos",
+          "description": "Full stack developer, independent author, speaker, teacher and JavaScripter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-11-02T17:44:25Z",
+            "owner": "wesbos",
+            "repo": "ama",
+            "stars": 287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dan Abramov",
+          "description": "JavaScript and React hobbyist, creator of React Hot Loader and Redux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-09-14T15:09:54Z",
+            "owner": "gaearon",
+            "repo": "ama",
+            "stars": 224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sindre Sorhus",
+          "description": "Full-time open-sourcerer. Maker of many npm packages and apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-01-24T07:05:30Z",
+            "owner": "sindresorhus",
+            "repo": "ama",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mark Otto",
+          "description": "Designer at GitHub. Creator of Bootstrap.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-03-02T08:05:15Z",
+            "owner": "mdo",
+            "repo": "ama",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scott Hanselman",
+          "description": "Teacher, Podcaster, OSCON Chair, Developer, Open Source C# and .NET at Microsoft.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-08-08T03:25:21Z",
+            "owner": "shanselman",
+            "repo": "ama",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zeno Rocha",
+          "description": "Developer Advocate at Liferay.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-10-21T15:40:57Z",
+            "owner": "zenorocha",
+            "repo": "ama",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hugo Giraudel",
+          "description": "CSS goblin, Sass hacker, margin psycho.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-11T10:45:16Z",
+            "owner": "KittyGiraudel",
+            "repo": "ama",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nikita Voloboev",
+          "description": "macOS enthusiast, open knowledge evangelist, writer, and an aspiring web developer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-12-20T02:49:44Z",
+            "owner": "nikivdev",
+            "repo": "ama",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pascal Hartig",
+          "description": "Polyglot. Engineer at Twitter. Contributor to Yeoman, TodoMVC, WSK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-07-09T10:10:46Z",
+            "owner": "passy",
+            "repo": "ama",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ariya Hidayat",
+          "description": "VP of Engineering Shape Security, Author of Esprima and PhantomJS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-02-10T15:55:07Z",
+            "owner": "ariya",
+            "repo": "ama",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Max Stoiber",
+          "description": "Open source developer advocate at Thinkmill, developing KeystoneJS and ElementalUI. Creator of react-boilerplate, part of React Vienna.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-04-25T07:23:31Z",
+            "owner": "mxstbr",
+            "repo": "ama",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jon Kuperman",
+          "description": "I love JavaScript! I blog at Codeplanet, make videos at Nodecasts and podcast at The Web Behind.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-02-12T09:31:10Z",
+            "owner": "jkup",
+            "repo": "ama",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Una Kravets",
+          "description": "Front-end developer, Sass things, Dev communities & Open Source Design.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-07-10T02:30:49Z",
+            "owner": "una",
+            "repo": "ama",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Byungjin Park",
+          "description": "Software Architect, DevOps Engineer, Hacker, Open Sourcer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-02-17T08:05:43Z",
+            "owner": "posquit0",
+            "repo": "ama",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nicholas C. Zakas",
+          "description": "Architect at Box, author, creator of ESLint.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-11-02T15:52:20Z",
+            "owner": "nzakas",
+            "repo": "ama",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Artem Sapegin",
+          "description": "Frontend developer at Here, creator of React Styleguidist and passionate photographer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-09T09:03:32Z",
+            "owner": "sapegin",
+            "repo": "ama",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lim Chee Aun",
+          "description": "Product engineer. GitHub stargazer. Anime lover.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-07-08T02:08:39Z",
+            "owner": "cheeaun",
+            "repo": "ama",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anselm Hannemann",
+          "description": "Freelance front-end developer, author of WDRL, co-organizer of Nightlybuild.io.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-07-08T06:34:13Z",
+            "owner": "anselmh",
+            "repo": "AMA",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ken Wheeler",
+          "description": "Professional American. Manchild.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-04-25T09:34:52Z",
+            "owner": "kenwheeler",
+            "repo": "ama",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ali Spittel",
+          "description": "Teaching code, Python and JavaScript developer, blogger.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-08-14T17:36:39Z",
+            "owner": "aspittel",
+            "repo": "ama",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mikola Lysenko",
+          "description": "Geometry vagrant.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-07-08T02:08:39Z",
+            "owner": "mikolalysenko",
+            "repo": "ama",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Krzysztof Cieslak",
+          "description": "Software developer, consultant, founder of Lambda Factory, author of Ionide, Forge, Fornax, project owner and maintainer of VSCode-Elm, contributor to many OSS projects, international speaker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-07-12T20:13:22Z",
+            "owner": "Krzysztof-Cieslak",
+            "repo": "AMA",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fabio Spampinato",
+          "description": "Self-taught full-stack developer passionate about open source and empowering people.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-03-07T23:57:11Z",
+            "owner": "fabiospampinato",
+            "repo": "ama",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vladimir Agafonkin",
+          "description": "Engineer at Mapbox, creator of Leaflet and a bunch of other open source libraries. Building the future of interactive maps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-09-23T10:39:32Z",
+            "owner": "mourner",
+            "repo": "ama",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Darrin Henein",
+          "description": "Design Lead for Firefox Mobile at Mozilla, creator of Lastronaut.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-07-08T19:09:25Z",
+            "owner": "darrinhenein",
+            "repo": "ama",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Maxime Euzière",
+          "description": "Front-end hacker and JS code-golfer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-07-08T02:08:39Z",
+            "owner": "xem",
+            "repo": "ama",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Charlike Mike Reagent",
+          "description": "Passionate full stack developer, hacking on ArchLinux. Perfectionist. Revolutionist. Founder of RegexHQ, core member at JSTransformers and part of dwylhq.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-08-04T01:22:53Z",
+            "owner": "tunnckoCore",
+            "repo": "ama",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Graham Daniels",
+          "description": "Sr Software Engineer at Refinery29, US Lead for PHPWomen, Host of #NoCapes, Single dad. Brooklyn, NY.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-06-16T16:50:35Z",
+            "owner": "greydnls",
+            "repo": "ama",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gaurav Mehla",
+          "description": "Full-stack developer, JS coder, open source contributor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2017-08-17T05:40:49Z",
+            "owner": "gauravmehla",
+            "repo": "ama",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sean Killeen",
+          "description": ".NET Lead & Managing Consultant at Excella. Speaker, blogger, tech lead. Would love to talk .NET, modernization, distributed systems, public speaking, musical theatre, and really pretty much anything else.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-10-11T03:54:23Z",
+            "owner": "SeanKilleen",
+            "repo": "ama",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Omar Bahareth",
+          "description": "Head of Software Engineering at Tam, mentor, full-stack developer, currently heavily into Ruby and Elixir, and slowly getting into Go and Rust. Located in Saudi Arabia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-01-03T00:00:43Z",
+            "owner": "obahareth",
+            "repo": "ama",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cassie McDaniel",
+          "description": "Design Director for Mozilla Foundation, cofounder of Women&&Tech, speaker and writer.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2018-10-25T20:27:34Z",
+            "owner": "cassiemc",
+            "repo": "ama",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Matthew Mueller",
+          "description": "Creator of Cheerio, Duo, and a few other node modules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-07-10T02:30:49Z",
+            "owner": "matthewmueller",
+            "repo": "ama",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JD Ballard",
+          "description": "Idaho native, Chalk collaborator, sunshine burns us. Likes hypotheticals, dislikes bees.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-07-10T02:30:49Z",
+            "owner": "Qix-",
+            "repo": "ama",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jeroen Engels",
+          "description": "JS developer and open source enthusiast.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-08-22T20:33:25Z",
+            "owner": "jfmengels",
+            "repo": "ama",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Benjamin Reitzammer",
+          "description": "Developer, ex-CTO, Engineering Manager, Communities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-09-07T07:49:30Z",
+            "owner": "benjmin-r",
+            "repo": "ama",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simon Boudrias",
+          "description": "Yeoman, Inquirer.js and a bunch of other node modules. Software engineer at Yelp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-07-07T21:09:32Z",
+            "owner": "SBoudrias",
+            "repo": "ama",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reza Akhavan",
+          "description": "Engineer at Mozilla. Co-organizer at NodeSchoolSF. Creator of Drywall, Frame, Aqua.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2015-07-07T21:09:32Z",
+            "owner": "jedireza",
+            "repo": "ama",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vadim Demedes",
+          "description": "Node.js addict.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-10-31T19:58:28Z",
+            "owner": "vadimdemedes",
+            "repo": "ama",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MK Yuan",
+          "description": "Node.js developer at Alipay.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-11-09T09:46:55Z",
+            "owner": "fengmk2",
+            "repo": "ama",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Camilo Nova",
+          "description": "Full stack software developer in Colombia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-03-11T16:02:56Z",
+            "owner": "camilonova",
+            "repo": "ama",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sam Verschueren",
+          "description": "Full stack JavaScript developer and open source contributor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-08-25T06:10:23Z",
+            "owner": "SamVerschueren",
+            "repo": "ama",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Darcy Clarke",
+          "description": "Developer, Designer, Founder, Mentor & Speaker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-04-27T00:30:21Z",
+            "owner": "darcyclarke",
+            "repo": "ama",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vishnu Ks",
+          "description": "Student at IIIT Allahabad. Experimentalist.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-07-10T18:23:58Z",
+            "owner": "hackerkid",
+            "repo": "ama",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Derick Bailey",
+          "description": "Developer and entrepreneur, author and screencaster.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-07-10T02:30:49Z",
+            "owner": "mxriverlynn",
+            "repo": "ama",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeokHong Kim",
+          "description": "Front-end engineer at NAVER, founder of hackrslab.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-07-10T02:30:49Z",
+            "owner": "insanehong",
+            "repo": "ama",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trent Oswald",
+          "description": "Maker of web things Mashape and nodejs/website.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-07-24T19:16:26Z",
+            "owner": "therebelrobot",
+            "repo": "ama",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Matthew Turland",
+          "description": "Full Stack Engineer at When I Work, author, mentor, and conference speaker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-09-08T00:56:56Z",
+            "owner": "elazar",
+            "repo": "amas",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Daichi Furiya",
+          "description": "Software developer in Japan. I love Android, JavaScript and iOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-07-10T02:30:49Z",
+            "owner": "wasabeef",
+            "repo": "ama",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Maxime Thirouin",
+          "description": "Freelance front-end/UI/UX developer. Open Source addict & compulsive coder.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-07-10T02:30:49Z",
+            "owner": "MoOx",
+            "repo": "ama",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arnaud Benard",
+          "description": "Freelance JS developer and digital nomad.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-09-23T11:14:09Z",
+            "owner": "arnaudbenard",
+            "repo": "ama",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CJ Patoilo",
+          "description": "Front-end engineer, JavaScript evangelist, DEV IO co-Founder.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-02-27T01:25:53Z",
+            "owner": "cjpatoilo",
+            "repo": "ama",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Armagan Amcalar",
+          "description": "Head of Software Engineering at unu GmbH. Software architect, entrepreneur, conference speaker, mentor, electronics engineer, guitar lover, singer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-12-17T18:01:16Z",
+            "owner": "dashersw",
+            "repo": "ama",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rifat Nabi",
+          "description": "Front-end developer and open-source enthusiast.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-03-24T03:52:06Z",
+            "owner": "torifat",
+            "repo": "ama",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Riza Fahmi",
+          "description": "Developer, mentor, speaker. Curriculum Director, Co-Founder Hacktiv8 Coding Bootcamp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-09-14T10:10:54Z",
+            "owner": "rizafahmi",
+            "repo": "ama",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jim Lesperance",
+          "description": "Passionate full-stack developer, loves dogs, and likes to travel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-06-26T11:25:23Z",
+            "owner": "cooljl31",
+            "repo": "ama",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ale Muñoz",
+          "description": "Developer relations at Sketch, plugin developer, designer & digital toolsmith.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-01-27T09:06:23Z",
+            "owner": "bomberstudios",
+            "repo": "ama",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wenjie Fan",
+          "description": "Front-end engineer for Linux Deepin, blogger of anotherhome.net.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-07-12T02:49:29Z",
+            "owner": "DIYgod",
+            "repo": "ama",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Robert Haritonov",
+          "description": "Front-end team lead, SourceJS maintainer and Living Style Guide evangelist.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-07-08T02:08:39Z",
+            "owner": "robhrt7",
+            "repo": "ama",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Henry Snopek",
+          "description": "Front-end developer, university student.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-07-08T02:08:39Z",
+            "owner": "hhsnopek",
+            "repo": "ama",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Heather Payne",
+          "description": "CEO of HackerYou, founder of Ladies Learning Code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-07-10T02:30:49Z",
+            "owner": "heatherpayne",
+            "repo": "ama",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Andy Jiang",
+          "description": "Customer Acquisition and Evangelist at Segment, maker of things.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-07-10T02:30:49Z",
+            "owner": "lambtron",
+            "repo": "ama",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kyle Robinson Young",
+          "description": "Makes stuff and likes bears.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-07-08T02:08:39Z",
+            "owner": "shama",
+            "repo": "ama",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chris Missal",
+          "description": "Maker of Internet things in Austin, TX. A goofball, nerd, and OSS lover.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-07-22T22:16:08Z",
+            "owner": "ChrisMissal",
+            "repo": "ama",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Honza Bittner",
+          "description": "Student at FIT CTU, Dart lover.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-09-19T16:17:15Z",
+            "owner": "tenhobi",
+            "repo": "ama",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Richard Littauer",
+          "description": "Full stack developer, linguist, and sometime digital nomad. Creating with the MIT Media Lab, wrote the Na'vi Dictionary, NodeSchool organizer, The User Is Drunk.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-07-10T02:30:49Z",
+            "owner": "RichardLitt",
+            "repo": "ama",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deepak Verma",
+          "description": "Full stack developer at Hometrack Australia, AWS Solution Architect, and passionate about photography.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-07-10T02:30:49Z",
+            "owner": "deepaknverma",
+            "repo": "ama",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Diki Ananta",
+          "description": "Freelance full-stack developer working with Laravel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-05-01T16:59:24Z",
+            "owner": "dikiaap",
+            "repo": "ama",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Breno Polanski",
+          "description": "Front-end software engineer at Meteorite BI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-09-23T11:14:09Z",
+            "owner": "brenopolanski",
+            "repo": "ama",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amit Merchant",
+          "description": "Full-stack developer working with JavaScript, PHP and Java.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-09-09T06:24:08Z",
+            "owner": "amitmerchant1990",
+            "repo": "ama",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Danilo Vaz",
+          "description": "Front-end developer (Brazilian), working at mLabs with JavaScript, EmberJS, APIs and other cool stuffs. I'm also BeerJS/SJC organizer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-11-07T21:38:08Z",
+            "owner": "danilovaz",
+            "repo": "ama",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adrian Mejia",
+          "description": "Software engineer at Cisco. Blogger at adrianmejia.com. Author of \"E-commerce Application built with the MEAN stack\". JavaScript lover. Boston located.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-10-26T17:10:55Z",
+            "owner": "amejiarosario",
+            "repo": "ama",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Joe Lencioni",
+          "description": "Building ImportJS and Diffux CI. Web infra at Airbnb.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-05-07T20:24:18Z",
+            "owner": "lencioni",
+            "repo": "ama",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Francis Sunday",
+          "description": "Software Developer based in Port Harcourt, Nigeria.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-01-09T17:23:17Z",
+            "owner": "codehakase",
+            "repo": "ama",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Travis Northcutt",
+          "description": "Husband, dad, nomad, PHP developer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-01-16T16:33:20Z",
+            "owner": "tnorthcutt",
+            "repo": "ama",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Olavi Haapala",
+          "description": "Web and mobile developer from Finland.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-03-14T18:47:32Z",
+            "owner": "olpeh",
+            "repo": "ama",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rishi Pithadiya",
+          "description": "Full-stack Ruby on Rails developer in India, open source enthusiast.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-05-22T17:48:44Z",
+            "owner": "rishiip",
+            "repo": "ama",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hamza Baig",
+          "description": "Full-stack JavaScript engineer. Passionate about Artificial Intelligence.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-12-15T20:15:08Z",
+            "owner": "hamxabaig",
+            "repo": "ama",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Greg Edelston",
+          "description": "Software engineer at Google. Zen Buddhist and improv lover.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-07-06T04:45:30Z",
+            "owner": "Gredelston",
+            "repo": "ama",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Can Tecim",
+          "description": "Software Engineer, former CTO, TypeScript and Node.js lover, open source contributor, remote worker based in Istanbul, Turkey.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-08-17T16:52:23Z",
+            "owner": "cantecim",
+            "repo": "ama",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nick Desaulniers",
+          "description": "Open Source Zealot at Mozilla.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-07-08T02:08:39Z",
+            "owner": "nickdesaulniers",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Drew Minns",
+          "description": "Designer/Developer and Educator. Lead Developer and Instructor with HackerYou.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-07-10T16:17:56Z",
+            "owner": "drewminns",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ryan Christiani",
+          "description": "Lead Instructor and Developer at HackerYou in Toronto.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-07-10T17:46:48Z",
+            "owner": "Rchristiani",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Patty Delgado",
+          "description": "Engineering lead at Refinery29. Avid mentor and developer evangelist, especially for women and minorities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-07-10T02:30:49Z",
+            "owner": "partydelgado",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lance He",
+          "description": "Full stack developer and speaker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-07-12T10:01:35Z",
+            "owner": "indigofeather",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Benny Thomas",
+          "description": "Full stack developer caring about children reading.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-07-10T02:30:49Z",
+            "owner": "VirtueMe",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Will Binns-Smith",
+          "description": "JavaScript at Bitbucket. Makes internet things.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-07-10T02:30:49Z",
+            "owner": "wbinnssmith",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lauri Tervonen",
+          "description": "CS & SE university student in Finland.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-07-19T21:43:17Z",
+            "owner": "mollikka",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rob Furlong",
+          "description": "Maker of cool things with the web, freelancer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-07-10T02:30:49Z",
+            "owner": "robbbz",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jan Sanchez",
+          "description": "Front-end developer. Creator of css-url-versioner, open source contributor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-08-03T17:33:21Z",
+            "owner": "jansanchez",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nick Johnstone",
+          "description": "Web developer from New Zealand, currently working as a Rails developer full-time. As a side project, I'm making a tool for developing games with no coding required.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-08-07T04:05:47Z",
+            "owner": "Widdershin",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mohamad Jahani",
+          "description": "Software developer from Iran, mostly working on web backends, *nix servers, electronic devices and most cool stuff you can imagine! A knowledge addict, who's reading and working 24/7.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-07-10T02:30:49Z",
+            "owner": "mamal72",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Justin Miller",
+          "description": "Mobile lead at Mapbox, formerly Code Sorcery Workshop (Pukka/Meerkat), photographer, traveler.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-08-23T04:01:25Z",
+            "owner": "incanus",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yitzchok Willroth",
+          "description": "Coder & Rabbi (though seldom at the same time!); Engineering Practice Manager, Grovo; Organizer, ShorePHP & NYPHP; Conference Speaker; Mentor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-02-20T23:48:45Z",
+            "owner": "coderabbi",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jeff Carouth",
+          "description": "Lead Platform Engineer at Liftopia, Co-host of the Loosely Coupled Podcast, mentor, and conference speaker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-07-10T02:30:49Z",
+            "owner": "jcarouth",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hamish Friedlander",
+          "description": "Developer, CTO at SilverStripe, human (presumed).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-09-10T01:27:05Z",
+            "owner": "hafriedlander",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chris Tankersley",
+          "description": "PHP developer, system admin, speaker, teacher, sometimes writer, and I play video games on YouTube.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-07-10T02:30:49Z",
+            "owner": "dragonmantank",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chris Biscardi",
+          "description": "UI lead at Docker. JavaScript. Haskell. Builder of products and tooling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-07-10T02:30:49Z",
+            "owner": "ChristopherBiscardi",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Claudio Procida",
+          "description": "Full stack web developer, mentor, evangelist and speaker. Passionate about painting and photography.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-09-23T11:14:09Z",
+            "owner": "claudiopro",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kahlil Lechelt",
+          "description": "JavaScript developer, organizes KarlsruheJS, co-host of the Descriptive Podcast and the Reactive Podcast, vocalist.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-09-18T21:56:25Z",
+            "owner": "khalillechelt",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Raymond Clanan",
+          "description": "Freelance full stack developer at Utopian Concept LLC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-11-08T16:12:14Z",
+            "owner": "rclanan",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hong Liu",
+          "description": "Freelance full stack web developer and founder of PresentBook.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-09-23T11:14:09Z",
+            "owner": "honglio",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Steel Brain",
+          "description": "The Rebel™, also a Node.js, PHP and HackLang developer.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2015-09-23T11:14:09Z",
+            "owner": "steelbrain",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rob Thomas",
+          "description": "VoIP Developer, IPv6 and Security Evangelist, DevOps proponent. Currently at Sangoma.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-02-12T09:31:10Z",
+            "owner": "xrobau",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unbug Lee",
+          "description": "Author of MIHTool and Codelf.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-03-29T03:02:25Z",
+            "owner": "unbug",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tim Smith",
+          "description": "Front-end designer, nerd, and recovering coffee addict.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-08-25T00:40:42Z",
+            "owner": "thexavismith",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Haroen Viaene",
+          "description": "Student mostly doing JS, open source everything, creating stuff at bullgit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-08-26T08:40:05Z",
+            "owner": "Haroenv",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kundan Singh",
+          "description": "Full Stack Javascript Developer, Biker, Traveller, Photographer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-02-12T09:31:10Z",
+            "owner": "kundanvishen",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seth Holladay",
+          "description": "A human seeking a full stack of pancakes and software, bug free.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-12-02T05:23:19Z",
+            "owner": "sholladay",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sitesh Shrivastava",
+          "description": "About Technology, Quantitative Finance, Products & Extreme Sports.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-12-18T08:42:31Z",
+            "owner": "sitz",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zach Leatherman",
+          "description": "I have a beard sometimes.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2016-02-12T09:31:10Z",
+            "owner": "zachleat",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Matt Seemon",
+          "description": "Voice-over artist, karaoke jockey, amateur actor, IT enthusiast.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-06-18T05:10:02Z",
+            "owner": "mattseemon",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stéphane Hulard",
+          "description": "Open source lover, dad, husband, speaker, teacher, remote worker, full-stack developer who loves playing with PHP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-07-27T09:51:52Z",
+            "owner": "shulard",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lizzie Siegle",
+          "description": "iOS and web developer, developer evangelist, hackathon hacker and judge, Spectra organizer, racially ambiguous.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-05-16T16:49:28Z",
+            "owner": "elizabethsiegle",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sami CHNITER",
+          "description": "Microsoft Exchange, Office, Skype For Business, PowerShell developer, blogger, and software geek.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-05-16T16:49:28Z",
+            "owner": "chniter",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kevin Jalbert",
+          "description": "Developer Lead at Shopify), primarily using Rails and React.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-08-31T00:43:46Z",
+            "owner": "kevinjalbert",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tobias Kienzler",
+          "description": "Physicist, programmer, parent.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-05-16T16:49:28Z",
+            "owner": "zommuter",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Juha Lindstedt",
+          "description": "Web architect at iDiD. Creator of RE:DOM, Deck of Cards and other open source projects.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2018-03-14T21:36:02Z",
+            "owner": "pakastin",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Md Eftakhairul Islam",
+          "description": "Software engineer, hacker, open source enthusiast and tech blogger at eftakhairul.com.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-03-25T05:19:16Z",
+            "owner": "eftakhairul",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chaitanya Giri",
+          "description": "Full-stack developer, JavaScript <3, tabs over spaces, open source enthusiast.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-04-07T14:42:15Z",
+            "owner": "chaitanyagiri",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Khen Daniel",
+          "description": "Software Engineer. Aspiring Photographer. Hacker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-09-05T00:30:21Z",
+            "owner": "thekhenzie",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CY Lim",
+          "description": "Full-stack JavaScript digital nomad.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-10-21T08:08:31Z",
+            "owner": "cylim",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frédéric Harper",
+          "description": "Developer Advocate at npm, former Mozilla & Microsoft one, Apress author, public speaker, #crazycatman & more.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2018-12-17T18:44:08Z",
+            "owner": "fharper",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Eduards Sizovs",
+          "description": "Software architect, blogger, trainer, speaker, and a conference organizer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-03-13T12:24:19Z",
+            "owner": "sizovs",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KimSia Sim",
+          "description": "Independent developer, blogger, owner of business apps agency. Based in Singapore.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-05-17T04:39:27Z",
+            "owner": "simkimsia",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chris Otto",
+          "description": "Test Engineer, creator of VSCodeFitNesse and blogger.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-08-17T02:08:06Z",
+            "owner": "chrisotto6",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Imed Jaberi",
+          "description": "JavaScript dev, mentor, open source contributor, community builder, and speaker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-04-19T03:05:21Z",
+            "owner": "3imed-jaberi",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Felipe Plets",
+          "description": "Tech lead, open source contributor, and blogger.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-04-05T15:25:00Z",
+            "owner": "felipeplets",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Angelo Pirola",
+          "description": "Microsoft (.NET) Backend Web Developer, GitHub contributor and based in Italy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-22T21:31:46Z",
+            "owner": "AngeloDotNet",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jan-Hendrik Heuing",
+          "description": "Developer, team lead, CTO, consultant.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-03-12T10:32:24Z",
+            "owner": "jheuing",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sarvsav Sharma",
+          "description": "Aspiring green software developer passionate about sustainable coding, specializing in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-01T14:57:55Z",
+            "owner": "sarvsav",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stephen Sawchuk",
+          "description": "Just having fun. Creator of wiredep, youmeyou. Helper of ^.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Blain Smith",
+          "description": "Partner/Engineer at MadGlory and Odd Networks. Rebel Geek.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Lewis Cowper",
+          "description": "Former forklift driver. Now web developer.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Blake Winton",
+          "description": "UX Engineer for Mozilla Firefox, and the author of Whimsy.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Ahmad Nassri",
+          "description": "Head of Engineering at Mashape. Technology Entrepreneur & Dog Lover. Toronto ✈ San Francisco.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Sebastian McKenzie",
+          "description": "Creator of Babel.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Rishabh Pugalia",
+          "description": "Full stack engineer. Creator of CSSDeck.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Matija Marohnić",
+          "description": "From modding Warcraft to frontend design/development and nerdiness for Node.js build tools.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Acho Arnold",
+          "description": "Full stack web developer with great passion in Social Psychology.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Adrián Arroyo Calle",
+          "description": "Currently a student in Spain doing any kind of development which uses C++, Rust, JavaScript and TypeScript.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Joe Ferguson",
+          "description": "PHP Dev, Sys Admin, Community Builder, Conf Organizer & Speaker, Maker, Hacker, Tinkerer, Space Geek, Husband. Enjoys craft beers and whiskey. Owned by cats.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Anthony Ramella",
+          "description": "I went from zero to hired web developer in 5 months. I blog about my experiences learning code and working as a junior developer.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Jon Moss",
+          "description": "Rails developer. Average teen. Member of the Ruby on Rails Issues Team.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Seth Alexander",
+          "description": "Free Code Camper, Burgeoning Dev, all things JavaScript.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "William Oliveira",
+          "description": "Front-end developer (Brazilian) working with JavaScript, Angular, Stylus, Gulp, Git, etc. Read more about me on my blog.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Tibor Simon",
+          "description": "Electrical engineer, software geek, DSP, iOS, vimmer, guitarist, biker, runner, tiborsimon.io.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Lindsey Bieda",
+          "description": "Back-end developer, game maker, and hardware hacker.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Michael Novotny",
+          "description": "JavaScript developer. Open source contributor. Insatiable learner. Standards and best practices enthusiast. Development is a lifestyle, not a job.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Miguel Durán",
+          "description": "Developer of things and stuff at Typeform, creator of React Slidy. Love videogames, embrace StandardJS. Living in Barcelona.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Chris 'Freddy' Getsfred",
+          "description": "Black hoodie aficionado, full-stack developer, JavaScript lover, new open source contributer, former script nerd, former technology instructor.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Manu Sunny",
+          "description": "Back-end .NET/Java developer.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Helen V. Holmes",
+          "description": "Freelance designer and UI engineer.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Ilya Bodrov",
+          "description": "Author, teacher, consulting developer. Fan of Ruby and Elixir.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Hasan Bayat",
+          "description": "Awesome developer. Loves open source.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Jürgen Gutsch",
+          "description": ".NET junkie, addicted to web and software development, clean coder, MVP for Visual Studio and Development Technologies.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Clark Weckmann",
+          "description": "Web Developer, Designer, and Programmer. Specializing in small business websites and blogs.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Sergey Sova",
+          "description": "Rust lover. Mentor. Freelancer. React developer.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Emanuele Bartolesi",
+          "description": "Full-stack web developer. Ethical hacker. Beginner triathlete.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Even Stensberg",
+          "description": "OSS contributor and developer.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Erdal TAŞKESEN",
+          "description": "All in one developer.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Wendell Hu",
+          "description": "Front-end developer at Alibaba.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Ahmad Ainul Rizki",
+          "description": "Full-stack developer, part-time open-sourcerer, and interested in functional languages.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "TheTechRobo",
+          "description": "Hobbyist Python 3.x developer who corrects grammar so much he loses friends.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Lali Akhil Raj",
+          "description": "Creating stuff for web & AI.",
+          "children": []
+        }
+      ],
+      "title": "Ask these people anything!"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ruby Taiwan",
+          "description": "Helping developers in Taiwan with any questions. Can ask in English or Chinese.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-10-14T07:22:15Z",
+            "owner": "rubytaiwan",
+            "repo": "AMA",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DevOps Taiwan",
+          "description": "Helping DevOps engineers with any questions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-10-09T02:23:01Z",
+            "owner": "DevOpsTW",
+            "repo": "AMA",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nikita Voloboev",
+          "description": "Loves making and sharing things. Building Learn Anything, Enpicom and tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-12-20T02:49:44Z",
+            "owner": "nikivdev",
+            "repo": "ama",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ansible Taiwan",
+          "description": "Helping Ansible users in Taiwan with any questions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-10-19T17:21:47Z",
+            "owner": "ansible-tw",
+            "repo": "AMA",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IIIT Vadodara",
+          "description": "Open-source organization maintained by college students.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-05-28T15:51:56Z",
+            "owner": "iiitv",
+            "repo": "aua",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vim Taiwan",
+          "description": "Helping vimmers in Taiwan with any questions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-12-11T08:45:07Z",
+            "owner": "vim-tw",
+            "repo": "ama",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "S Fox Jones",
+          "description": "Full stack developer, independent author, and JavaScript lover.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-09-07T14:25:36Z",
+            "owner": "tj-commits",
+            "repo": "ama",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Code Monkey Health",
+          "description": "Helping developers and others with tips, tricks, recipes and programs focused on Lifestyle, Exercise, Attitude and Food LEAF.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-09-08T01:20:40Z",
+            "owner": "codemonkeyhealth",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "From the Front",
+          "description": "Nonprofit organization behind the \"From the Front\" conference series in Italy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-01-25T13:36:04Z",
+            "owner": "fromthefront",
+            "repo": "ama",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Edenspiekermann",
+          "description": "Design agency based in Berlin and around the world.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "HackCU",
+          "description": "A collegiate hackathon at the University of Colorado that operates a free bi-annual event for students to learn coding or push their skills building things.",
+          "children": []
+        }
+      ],
+      "title": "Ask these organizations anything!"
+    },
+    {
+      "description": "Fun: AMAs is a recursive acronym.",
+      "items": [],
+      "title": "Create your own AMA!"
+    },
+    {
+      "description": "To the extent possible under law, Sindre Sorhus has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T08:52:30.212Z",
+    "original_repository": "sindresorhus/amas",
+    "original_repository_sha": "47eef7c55d9733e343c89b424b9d9893df5cbbdd",
+    "enhanced_repository": "enhansome/enhansome-amas",
+    "enhanced_repository_description": null,
+    "title": "Awesome & Marvelous Amas with stars"
+  }
+}

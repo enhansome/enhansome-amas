@@ -2159,8 +2159,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T08:05:55.425Z",
+    "last_updated": "2026-08-19T12:15:25.337Z",
     "original_repository": "sindresorhus/amas",
+    "original_repository_id": 38531345,
     "original_repository_sha": "47eef7c55d9733e343c89b424b9d9893df5cbbdd",
     "enhanced_repository": "enhansome/enhansome-amas",
     "enhanced_repository_description": null,

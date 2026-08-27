@@ -2159,9 +2159,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T08:10:35.667Z",
-    "original_repository": "sindresorhus/amas",
-    "original_repository_id": 38531345,
+    "last_updated": "2026-08-27T11:19:03.739Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 38531345,
+      "language": null,
+      "last_commit": "2024-12-01T04:31:29Z",
+      "owner": "sindresorhus",
+      "repo": "amas",
+      "stars": 1480
+    },
     "original_repository_sha": "47eef7c55d9733e343c89b424b9d9893df5cbbdd",
     "enhanced_repository": "enhansome/enhansome-amas",
     "enhanced_repository_description": null,

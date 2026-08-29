@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask @holman anything!",
+            "homepage": null,
             "id": 2013998,
             "language": null,
+            "license": null,
             "last_commit": "2021-02-23T11:59:21Z",
+            "open_issues": 1,
             "owner": "holman",
             "repo": "ama",
-            "stars": 725
+            "stars": 725,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -26,12 +31,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Ask me anything!",
+            "homepage": "https://github.com/kentcdodds/ama/issues?q=is%3Aissue+is%3Aclosed",
             "id": 38583384,
             "language": null,
+            "license": null,
             "last_commit": "2020-12-02T18:43:41Z",
+            "open_issues": 128,
             "owner": "kentcdodds",
             "repo": "ama",
-            "stars": 683
+            "stars": 683,
+            "topics": [
+              "ama",
+              "answers",
+              "kentcdodds",
+              "questions"
+            ]
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -42,12 +57,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything about CSS Grid Layout",
+            "homepage": null,
             "id": 72823129,
             "language": null,
+            "license": null,
             "last_commit": "2017-05-13T12:52:29Z",
+            "open_issues": 48,
             "owner": "rachelandrew",
             "repo": "cssgrid-ama",
-            "stars": 328
+            "stars": 328,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -58,12 +78,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 38723848,
             "language": null,
+            "license": null,
             "last_commit": "2016-11-02T17:44:25Z",
+            "open_issues": 69,
             "owner": "wesbos",
             "repo": "ama",
-            "stars": 287
+            "stars": 287,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -74,12 +99,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 42456012,
             "language": null,
+            "license": null,
             "last_commit": "2015-09-14T15:09:54Z",
+            "open_issues": 48,
             "owner": "gaearon",
             "repo": "ama",
-            "stars": 224
+            "stars": 224,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -90,12 +120,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[[I'm slow at replying these days, but I hope to get back to answering questions eventually]] Ask me anything!",
+            "homepage": "https://blog.sindresorhus.com/answering-anything-678ce5623798",
             "id": 38368663,
             "language": null,
+            "license": null,
             "last_commit": "2021-01-24T07:05:30Z",
+            "open_issues": 154,
             "owner": "sindresorhus",
             "repo": "ama",
-            "stars": 144
+            "stars": 144,
+            "topics": [
+              "ama",
+              "answers",
+              "ask",
+              "ask-me-anything",
+              "meta",
+              "open-content",
+              "personal",
+              "question-answering",
+              "questions",
+              "questions-and-answers"
+            ]
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -106,12 +152,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask @mdo anything!",
+            "homepage": null,
             "id": 9110788,
             "language": null,
+            "license": null,
             "last_commit": "2021-03-02T08:05:15Z",
+            "open_issues": 3,
             "owner": "mdo",
             "repo": "ama",
-            "stars": 94
+            "stars": 94,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -122,12 +173,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything",
+            "homepage": null,
             "id": 99645565,
             "language": null,
+            "license": null,
             "last_commit": "2017-08-08T03:25:21Z",
+            "open_issues": 0,
             "owner": "shanselman",
             "repo": "ama",
-            "stars": 87
+            "stars": 87,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -138,12 +194,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":speech_balloon: Ask me anything!",
+            "homepage": null,
             "id": 44637313,
             "language": null,
+            "license": null,
             "last_commit": "2015-10-21T15:40:57Z",
+            "open_issues": 1,
             "owner": "zenorocha",
             "repo": "ama",
-            "stars": 71
+            "stars": 71,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -154,12 +215,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 39268431,
             "language": null,
+            "license": null,
             "last_commit": "2024-08-11T10:45:16Z",
+            "open_issues": 0,
             "owner": "KittyGiraudel",
             "repo": "ama",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -170,12 +236,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything ",
+            "homepage": "https://nikiv.dev",
             "id": 71655921,
             "language": null,
+            "license": null,
             "last_commit": "2025-12-20T02:49:44Z",
+            "open_issues": 0,
             "owner": "nikivdev",
             "repo": "ama",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "ama",
+              "ask-me-anything"
+            ]
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -186,12 +260,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask Me Anything",
+            "homepage": null,
             "id": 38445956,
             "language": null,
+            "license": "Artistic-2.0",
             "last_commit": "2015-07-09T10:10:46Z",
+            "open_issues": 9,
             "owner": "passy",
             "repo": "ama",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -202,12 +281,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 51451652,
             "language": null,
+            "license": null,
             "last_commit": "2016-02-10T15:55:07Z",
+            "open_issues": 10,
             "owner": "ariya",
             "repo": "ama",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -218,12 +302,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 55853446,
             "language": null,
+            "license": null,
             "last_commit": "2017-04-25T07:23:31Z",
+            "open_issues": 2,
             "owner": "mxstbr",
             "repo": "ama",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -234,12 +323,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 57098200,
             "language": null,
+            "license": null,
             "last_commit": "2016-02-12T09:31:10Z",
+            "open_issues": 5,
             "owner": "jkup",
             "repo": "ama",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -250,12 +344,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 39532177,
             "language": null,
+            "license": null,
             "last_commit": "2015-07-10T02:30:49Z",
+            "open_issues": 0,
             "owner": "una",
             "repo": "ama",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -266,12 +365,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💭 Ask me anything!",
+            "homepage": "https://cv.posquit0.com",
             "id": 134667611,
             "language": null,
+            "license": null,
             "last_commit": "2021-02-17T08:05:43Z",
+            "open_issues": 2,
             "owner": "posquit0",
             "repo": "ama",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "ama",
+              "ask",
+              "ask-me-anything",
+              "awesome",
+              "posquit0",
+              "question",
+              "question-answering"
+            ]
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -282,12 +394,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 38948967,
             "language": null,
+            "license": null,
             "last_commit": "2015-11-02T15:52:20Z",
+            "open_issues": 0,
             "owner": "nzakas",
             "repo": "ama",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -298,12 +415,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": "http://blog.sapegin.me/all/ama",
             "id": 73728986,
             "language": null,
+            "license": null,
             "last_commit": "2024-12-09T09:03:32Z",
+            "open_issues": 0,
             "owner": "sapegin",
             "repo": "ama",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -314,12 +436,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 38727862,
             "language": null,
+            "license": null,
             "last_commit": "2015-07-08T02:08:39Z",
+            "open_issues": 9,
             "owner": "cheeaun",
             "repo": "ama",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -330,12 +457,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Ask me anything!",
+            "homepage": null,
             "id": 38736366,
             "language": null,
+            "license": "MIT",
             "last_commit": "2015-07-08T06:34:13Z",
+            "open_issues": 1,
             "owner": "anselmh",
             "repo": "AMA",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -346,12 +478,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": "https://blog.sindresorhus.com/answering-anything-678ce5623798",
             "id": 89342710,
             "language": null,
+            "license": null,
             "last_commit": "2017-04-25T09:34:52Z",
+            "open_issues": 2,
             "owner": "kenwheeler",
             "repo": "ama",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -362,12 +499,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 144750625,
             "language": null,
+            "license": null,
             "last_commit": "2018-08-14T17:36:39Z",
+            "open_issues": 5,
             "owner": "aspittel",
             "repo": "ama",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -378,12 +520,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 38824260,
             "language": null,
+            "license": null,
             "last_commit": "2015-07-08T02:08:39Z",
+            "open_issues": 2,
             "owner": "mikolalysenko",
             "repo": "ama",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -394,12 +541,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me Anything ",
+            "homepage": null,
             "id": 100606235,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-07-12T20:13:22Z",
+            "open_issues": 5,
             "owner": "Krzysztof-Cieslak",
             "repo": "AMA",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "ama",
+              "ask-me-anything"
+            ]
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -410,12 +565,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 171332433,
             "language": null,
+            "license": null,
             "last_commit": "2023-03-07T23:57:11Z",
+            "open_issues": 0,
             "owner": "fabiospampinato",
             "repo": "ama",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "ama",
+              "answers",
+              "ask-me-anything",
+              "questions"
+            ]
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -426,12 +591,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 42591957,
             "language": null,
+            "license": null,
             "last_commit": "2015-09-23T10:39:32Z",
+            "open_issues": 0,
             "owner": "mourner",
             "repo": "ama",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -442,12 +612,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 38767351,
             "language": null,
+            "license": null,
             "last_commit": "2015-07-08T19:09:25Z",
+            "open_issues": 10,
             "owner": "darrinhenein",
             "repo": "ama",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -458,12 +633,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 38774461,
             "language": null,
+            "license": null,
             "last_commit": "2015-07-08T02:08:39Z",
+            "open_issues": 1,
             "owner": "xem",
             "repo": "ama",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -474,12 +654,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "#AMA - Ask @tunnckoCore anything. Instead of sending me email use the issue tracker to send me messages or join in the Gitter.im chat",
+            "homepage": "https://gitter.im/tunnckoCore/ama",
             "id": 19815447,
             "language": null,
+            "license": null,
             "last_commit": "2015-08-04T01:22:53Z",
+            "open_issues": 2,
             "owner": "tunnckoCore",
             "repo": "ama",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -490,12 +675,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 42068293,
             "language": null,
+            "license": null,
             "last_commit": "2016-06-16T16:50:35Z",
+            "open_issues": 0,
             "owner": "greydnls",
             "repo": "ama",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -506,12 +696,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💬  Ask me Anything ",
+            "homepage": "https://gauravmehla.github.io/ama/",
             "id": 94729890,
             "language": "HTML",
+            "license": null,
             "last_commit": "2017-08-17T05:40:49Z",
+            "open_issues": 8,
             "owner": "gauravmehla",
             "repo": "ama",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "ama",
+              "ask-me-anything",
+              "personal"
+            ]
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -522,12 +721,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything",
+            "homepage": null,
             "id": 106498802,
             "language": null,
+            "license": null,
             "last_commit": "2017-10-11T03:54:23Z",
+            "open_issues": 0,
             "owner": "SeanKilleen",
             "repo": "ama",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -538,12 +742,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything! https://omar.engineer",
+            "homepage": null,
             "id": 150999336,
             "language": null,
+            "license": "MIT",
             "last_commit": "2021-01-03T00:00:43Z",
+            "open_issues": 0,
             "owner": "obahareth",
             "repo": "ama",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -554,12 +763,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 38759066,
             "language": null,
+            "license": null,
             "last_commit": "2018-10-25T20:27:34Z",
+            "open_issues": 1,
             "owner": "cassiemc",
             "repo": "ama",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -570,12 +784,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 38987084,
             "language": null,
+            "license": null,
             "last_commit": "2015-07-10T02:30:49Z",
+            "open_issues": 1,
             "owner": "matthewmueller",
             "repo": "ama",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -586,12 +805,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 41457455,
             "language": null,
+            "license": null,
             "last_commit": "2015-07-10T02:30:49Z",
+            "open_issues": 0,
             "owner": "Qix-",
             "repo": "ama",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -602,12 +826,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 66305523,
             "language": null,
+            "license": null,
             "last_commit": "2016-08-22T20:33:25Z",
+            "open_issues": 0,
             "owner": "jfmengels",
             "repo": "ama",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -618,12 +847,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything. Seriously do it!",
+            "homepage": null,
             "id": 101226059,
             "language": null,
+            "license": null,
             "last_commit": "2017-09-07T07:49:30Z",
+            "open_issues": 2,
             "owner": "benjmin-r",
             "repo": "ama",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -634,12 +868,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 38722507,
             "language": null,
+            "license": null,
             "last_commit": "2015-07-07T21:09:32Z",
+            "open_issues": 2,
             "owner": "SBoudrias",
             "repo": "ama",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -650,12 +889,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 38723041,
             "language": null,
+            "license": null,
             "last_commit": "2015-07-07T21:09:32Z",
+            "open_issues": 0,
             "owner": "jedireza",
             "repo": "ama",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -666,12 +910,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask Me Anything!",
+            "homepage": null,
             "id": 45316145,
             "language": null,
+            "license": null,
             "last_commit": "2015-10-31T19:58:28Z",
+            "open_issues": 2,
             "owner": "vadimdemedes",
             "repo": "ama",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -682,12 +931,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 45828669,
             "language": null,
+            "license": null,
             "last_commit": "2015-11-09T09:46:55Z",
+            "open_issues": 5,
             "owner": "fengmk2",
             "repo": "ama",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -698,12 +952,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": "https://camilonova.com",
             "id": 48809599,
             "language": null,
+            "license": null,
             "last_commit": "2023-03-11T16:02:56Z",
+            "open_issues": 0,
             "owner": "camilonova",
             "repo": "ama",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -714,12 +973,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 49428420,
             "language": null,
+            "license": null,
             "last_commit": "2016-08-25T06:10:23Z",
+            "open_issues": 4,
             "owner": "SamVerschueren",
             "repo": "ama",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -730,12 +994,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":question: Ask me anything!",
+            "homepage": "https://darcyclarke.me",
             "id": 38797349,
             "language": null,
+            "license": null,
             "last_commit": "2019-04-27T00:30:21Z",
+            "open_issues": 0,
             "owner": "darcyclarke",
             "repo": "ama",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "ama",
+              "answer",
+              "qa",
+              "question"
+            ]
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -746,12 +1020,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":bust_in_silhouette: Ask me anything!",
+            "homepage": null,
             "id": 38782598,
             "language": null,
+            "license": null,
             "last_commit": "2015-07-10T18:23:58Z",
+            "open_issues": 3,
             "owner": "hackerkid",
             "repo": "ama",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -762,12 +1041,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 38965008,
             "language": null,
+            "license": null,
             "last_commit": "2015-07-10T02:30:49Z",
+            "open_issues": 2,
             "owner": "mxriverlynn",
             "repo": "ama",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -778,12 +1062,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 39108483,
             "language": null,
+            "license": null,
             "last_commit": "2015-07-10T02:30:49Z",
+            "open_issues": 1,
             "owner": "insanehong",
             "repo": "ama",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -794,12 +1083,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 38913855,
             "language": null,
+            "license": null,
             "last_commit": "2015-07-24T19:16:26Z",
+            "open_issues": 2,
             "owner": "therebelrobot",
             "repo": "ama",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -810,12 +1104,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome & Marvelous Amas",
+            "homepage": null,
             "id": 42081443,
             "language": null,
+            "license": null,
             "last_commit": "2015-09-08T00:56:56Z",
+            "open_issues": 0,
             "owner": "elazar",
             "repo": "amas",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -826,12 +1125,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 42569674,
             "language": null,
+            "license": null,
             "last_commit": "2015-07-10T02:30:49Z",
+            "open_issues": 4,
             "owner": "wasabeef",
             "repo": "ama",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -842,12 +1146,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": "https://moox.io/",
             "id": 42634918,
             "language": null,
+            "license": null,
             "last_commit": "2015-07-10T02:30:49Z",
+            "open_issues": 0,
             "owner": "MoOx",
             "repo": "ama",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -858,12 +1167,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 45934489,
             "language": null,
+            "license": null,
             "last_commit": "2015-09-23T11:14:09Z",
+            "open_issues": 1,
             "owner": "arnaudbenard",
             "repo": "ama",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -874,12 +1188,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything.",
+            "homepage": "https://cjpatoilo.com/ama",
             "id": 47867917,
             "language": null,
+            "license": null,
             "last_commit": "2023-02-27T01:25:53Z",
+            "open_issues": 0,
             "owner": "cjpatoilo",
             "repo": "ama",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "ama",
+              "ask-me-anything"
+            ]
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -890,12 +1212,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 48189251,
             "language": null,
+            "license": null,
             "last_commit": "2015-12-17T18:01:16Z",
+            "open_issues": 0,
             "owner": "dashersw",
             "repo": "ama",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -906,12 +1233,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💬Ask me anything!",
+            "homepage": null,
             "id": 126563393,
             "language": null,
+            "license": null,
             "last_commit": "2018-03-24T03:52:06Z",
+            "open_issues": 0,
             "owner": "torifat",
             "repo": "ama",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "ama"
+            ]
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -922,12 +1256,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": "https://blog.sindresorhus.com/answering-anything-678ce5623798",
             "id": 148770737,
             "language": null,
+            "license": null,
             "last_commit": "2018-09-14T10:10:54Z",
+            "open_issues": 0,
             "owner": "rizafahmi",
             "repo": "ama",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -938,12 +1277,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 193879396,
             "language": null,
+            "license": null,
             "last_commit": "2019-06-26T11:25:23Z",
+            "open_issues": 0,
             "owner": "cooljl31",
             "repo": "ama",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -954,12 +1298,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask Me Anything!",
+            "homepage": null,
             "id": 236437565,
             "language": null,
+            "license": null,
             "last_commit": "2020-01-27T09:06:23Z",
+            "open_issues": 2,
             "owner": "bomberstudios",
             "repo": "ama",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "ama",
+              "answers",
+              "ask-me-anything",
+              "personal",
+              "questions",
+              "questions-and-answers"
+            ]
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -970,12 +1326,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 38791414,
             "language": null,
+            "license": null,
             "last_commit": "2015-07-12T02:49:29Z",
+            "open_issues": 6,
             "owner": "DIYgod",
             "repo": "ama",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -986,12 +1347,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 38813082,
             "language": null,
+            "license": null,
             "last_commit": "2015-07-08T02:08:39Z",
+            "open_issues": 7,
             "owner": "robhrt7",
             "repo": "ama",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1002,12 +1368,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 38842854,
             "language": null,
+            "license": null,
             "last_commit": "2015-07-08T02:08:39Z",
+            "open_issues": 0,
             "owner": "hhsnopek",
             "repo": "ama",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1018,12 +1389,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 38893960,
             "language": null,
+            "license": null,
             "last_commit": "2015-07-10T02:30:49Z",
+            "open_issues": 11,
             "owner": "heatherpayne",
             "repo": "ama",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1034,12 +1410,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 38965473,
             "language": null,
+            "license": null,
             "last_commit": "2015-07-10T02:30:49Z",
+            "open_issues": 3,
             "owner": "lambtron",
             "repo": "ama",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1050,12 +1431,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 38793149,
             "language": null,
+            "license": null,
             "last_commit": "2015-07-08T02:08:39Z",
+            "open_issues": 2,
             "owner": "shama",
             "repo": "ama",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1066,12 +1452,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 39532781,
             "language": null,
+            "license": null,
             "last_commit": "2015-07-22T22:16:08Z",
+            "open_issues": 0,
             "owner": "ChrisMissal",
             "repo": "ama",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1082,12 +1473,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 39895569,
             "language": null,
+            "license": null,
             "last_commit": "2021-09-19T16:17:15Z",
+            "open_issues": 0,
             "owner": "tenhobi",
             "repo": "ama",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "ama",
+              "ask",
+              "ask-me-anything",
+              "question-answering"
+            ]
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1098,12 +1499,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 40318970,
             "language": null,
+            "license": null,
             "last_commit": "2015-07-10T02:30:49Z",
+            "open_issues": 1,
             "owner": "RichardLitt",
             "repo": "ama",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1114,12 +1520,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 42289372,
             "language": null,
+            "license": null,
             "last_commit": "2015-07-10T02:30:49Z",
+            "open_issues": 2,
             "owner": "deepaknverma",
             "repo": "ama",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1130,12 +1541,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask @dikiaap anything!",
+            "homepage": "https://blog.dikiaap.id/post/ask-me-anything",
             "id": 47004302,
             "language": null,
+            "license": null,
             "last_commit": "2022-05-01T16:59:24Z",
+            "open_issues": 0,
             "owner": "dikiaap",
             "repo": "ama",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "ama",
+              "ask-me-anything",
+              "dikiaap"
+            ]
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1146,12 +1566,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 48330685,
             "language": null,
+            "license": null,
             "last_commit": "2015-09-23T11:14:09Z",
+            "open_issues": 0,
             "owner": "brenopolanski",
             "repo": "ama",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1162,12 +1587,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": "https://github.com/amitmerchant1990/ama/issues?q=is%3Aissue+is%3Aclosed",
             "id": 38607511,
             "language": null,
+            "license": null,
             "last_commit": "2019-09-09T06:24:08Z",
+            "open_issues": 0,
             "owner": "amitmerchant1990",
             "repo": "ama",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1178,12 +1608,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":speech_balloon: Ask me anything!",
+            "homepage": null,
             "id": 45714383,
             "language": null,
+            "license": null,
             "last_commit": "2015-11-07T21:38:08Z",
+            "open_issues": 1,
             "owner": "danilovaz",
             "repo": "ama",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1194,12 +1629,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ask me anything!",
+            "homepage": "http://adrianmejia.com",
             "id": 56388035,
             "language": null,
+            "license": null,
             "last_commit": "2016-10-26T17:10:55Z",
+            "open_issues": 0,
             "owner": "amejiarosario",
             "repo": "ama",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1210,12 +1650,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 58279351,
             "language": null,
+            "license": null,
             "last_commit": "2016-05-07T20:24:18Z",
+            "open_issues": 0,
             "owner": "lencioni",
             "repo": "ama",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1226,12 +1671,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 78448715,
             "language": null,
+            "license": null,
             "last_commit": "2017-01-09T17:23:17Z",
+            "open_issues": 2,
             "owner": "codehakase",
             "repo": "ama",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1242,12 +1692,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": "https://travisnorthcutt.com",
             "id": 79392520,
             "language": null,
+            "license": null,
             "last_commit": "2017-01-16T16:33:20Z",
+            "open_issues": 2,
             "owner": "tnorthcutt",
             "repo": "ama",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1258,12 +1713,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 84984938,
             "language": null,
+            "license": null,
             "last_commit": "2017-03-14T18:47:32Z",
+            "open_issues": 0,
             "owner": "olpeh",
             "repo": "ama",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "ama"
+            ]
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1274,12 +1736,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 134079067,
             "language": null,
+            "license": null,
             "last_commit": "2018-05-22T17:48:44Z",
+            "open_issues": 0,
             "owner": "rishiip",
             "repo": "ama",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1290,12 +1757,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": "https://medium.com/@hamxabaig",
             "id": 161939349,
             "language": null,
+            "license": null,
             "last_commit": "2018-12-15T20:15:08Z",
+            "open_issues": 0,
             "owner": "hamxabaig",
             "repo": "ama",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "ama",
+              "ask-me-anything"
+            ]
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1306,12 +1781,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": "https://blog.sindresorhus.com/answering-anything-678ce5623798",
             "id": 195497916,
             "language": null,
+            "license": null,
             "last_commit": "2019-07-06T04:45:30Z",
+            "open_issues": 0,
             "owner": "Gredelston",
             "repo": "ama",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1322,12 +1802,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💭 Ask me anything!",
+            "homepage": "http://www.cantecim.com",
             "id": 679803032,
             "language": null,
+            "license": null,
             "last_commit": "2023-08-17T16:52:23Z",
+            "open_issues": 0,
             "owner": "cantecim",
             "repo": "ama",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "ama",
+              "answers",
+              "ask",
+              "ask-me-anything",
+              "awesome",
+              "personal",
+              "question-answering"
+            ]
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1338,12 +1831,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 38834866,
             "language": null,
+            "license": null,
             "last_commit": "2015-07-08T02:08:39Z",
+            "open_issues": 14,
             "owner": "nickdesaulniers",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1354,12 +1852,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": "http://drewminns.com",
             "id": 38889682,
             "language": null,
+            "license": null,
             "last_commit": "2015-07-10T16:17:56Z",
+            "open_issues": 4,
             "owner": "drewminns",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1370,12 +1873,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 38893685,
             "language": null,
+            "license": null,
             "last_commit": "2015-07-10T17:46:48Z",
+            "open_issues": 0,
             "owner": "Rchristiani",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1386,12 +1894,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 38939423,
             "language": null,
+            "license": null,
             "last_commit": "2015-07-10T02:30:49Z",
+            "open_issues": 6,
             "owner": "partydelgado",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1402,12 +1915,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 38957327,
             "language": null,
+            "license": null,
             "last_commit": "2015-07-12T10:01:35Z",
+            "open_issues": 4,
             "owner": "indigofeather",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1418,12 +1936,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 38982145,
             "language": null,
+            "license": null,
             "last_commit": "2015-07-10T02:30:49Z",
+            "open_issues": 4,
             "owner": "VirtueMe",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1434,12 +1957,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 39313700,
             "language": null,
+            "license": null,
             "last_commit": "2015-07-10T02:30:49Z",
+            "open_issues": 6,
             "owner": "wbinnssmith",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1450,12 +1978,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 39340255,
             "language": null,
+            "license": null,
             "last_commit": "2015-07-19T21:43:17Z",
+            "open_issues": 0,
             "owner": "mollikka",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1466,12 +1999,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 39892776,
             "language": null,
+            "license": null,
             "last_commit": "2015-07-10T02:30:49Z",
+            "open_issues": 4,
             "owner": "robbbz",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1482,12 +2020,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything",
+            "homepage": null,
             "id": 40138239,
             "language": null,
+            "license": null,
             "last_commit": "2015-08-03T17:33:21Z",
+            "open_issues": 4,
             "owner": "jansanchez",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1498,12 +2041,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 40340318,
             "language": null,
+            "license": null,
             "last_commit": "2015-08-07T04:05:47Z",
+            "open_issues": 1,
             "owner": "Widdershin",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1514,12 +2062,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 41738128,
             "language": null,
+            "license": null,
             "last_commit": "2015-07-10T02:30:49Z",
+            "open_issues": 8,
             "owner": "mamal72",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1530,12 +2083,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": "justinmiller.io",
             "id": 41230374,
             "language": null,
+            "license": null,
             "last_commit": "2015-08-23T04:01:25Z",
+            "open_issues": 0,
             "owner": "incanus",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1546,12 +2104,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 42067941,
             "language": null,
+            "license": null,
             "last_commit": "2020-02-20T23:48:45Z",
+            "open_issues": 2,
             "owner": "coderabbi",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1562,12 +2125,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 42072243,
             "language": null,
+            "license": null,
             "last_commit": "2015-07-10T02:30:49Z",
+            "open_issues": 2,
             "owner": "jcarouth",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1578,12 +2146,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 42213655,
             "language": null,
+            "license": null,
             "last_commit": "2015-09-10T01:27:05Z",
+            "open_issues": 1,
             "owner": "hafriedlander",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1594,12 +2167,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 42115004,
             "language": null,
+            "license": null,
             "last_commit": "2015-07-10T02:30:49Z",
+            "open_issues": 5,
             "owner": "dragonmantank",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1610,12 +2188,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 42756107,
             "language": null,
+            "license": null,
             "last_commit": "2015-07-10T02:30:49Z",
+            "open_issues": 0,
             "owner": "ChristopherBiscardi",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1626,12 +2209,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":question: Ask me anything!",
+            "homepage": null,
             "id": 43601554,
             "language": null,
+            "license": null,
             "last_commit": "2015-09-23T11:14:09Z",
+            "open_issues": 0,
             "owner": "claudiopro",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1642,12 +2230,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 44434723,
             "language": null,
+            "license": null,
             "last_commit": "2017-09-18T21:56:25Z",
+            "open_issues": 0,
             "owner": "khalillechelt",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1658,12 +2251,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 45784713,
             "language": null,
+            "license": null,
             "last_commit": "2015-11-08T16:12:14Z",
+            "open_issues": 4,
             "owner": "rclanan",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1674,12 +2272,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 45897065,
             "language": null,
+            "license": null,
             "last_commit": "2015-09-23T11:14:09Z",
+            "open_issues": 1,
             "owner": "honglio",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1690,12 +2293,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 47171576,
             "language": null,
+            "license": null,
             "last_commit": "2015-09-23T11:14:09Z",
+            "open_issues": 0,
             "owner": "steelbrain",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1706,12 +2314,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 51977612,
             "language": null,
+            "license": null,
             "last_commit": "2016-02-12T09:31:10Z",
+            "open_issues": 0,
             "owner": "xrobau",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1722,12 +2335,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 54939241,
             "language": null,
+            "license": null,
             "last_commit": "2016-03-29T03:02:25Z",
+            "open_issues": 1,
             "owner": "unbug",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1738,12 +2356,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask @smithtimmytim anything!",
+            "homepage": null,
             "id": 66510180,
             "language": null,
+            "license": null,
             "last_commit": "2016-08-25T00:40:42Z",
+            "open_issues": 0,
             "owner": "thexavismith",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1754,12 +2377,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 66631541,
             "language": null,
+            "license": null,
             "last_commit": "2016-08-26T08:40:05Z",
+            "open_issues": 0,
             "owner": "Haroenv",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1770,12 +2398,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": "http://kundan.pe.hu",
             "id": 69690097,
             "language": null,
+            "license": null,
             "last_commit": "2016-02-12T09:31:10Z",
+            "open_issues": 0,
             "owner": "kundanvishen",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1786,12 +2419,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 75328633,
             "language": null,
+            "license": null,
             "last_commit": "2016-12-02T05:23:19Z",
+            "open_issues": 0,
             "owner": "sholladay",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1802,12 +2440,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask @SITZ anything!",
+            "homepage": null,
             "id": 76771401,
             "language": null,
+            "license": null,
             "last_commit": "2016-12-18T08:42:31Z",
+            "open_issues": 0,
             "owner": "sitz",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "ama",
+              "ask-me-anything"
+            ]
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1818,12 +2464,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Ask me anything!",
+            "homepage": "https://blog.sindresorhus.com/answering-anything-678ce5623798",
             "id": 76587283,
             "language": null,
+            "license": null,
             "last_commit": "2016-02-12T09:31:10Z",
+            "open_issues": 2,
             "owner": "zachleat",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1834,12 +2485,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 94666397,
             "language": null,
+            "license": null,
             "last_commit": "2017-06-18T05:10:02Z",
+            "open_issues": 0,
             "owner": "mattseemon",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1850,12 +2506,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything !",
+            "homepage": null,
             "id": 98519333,
             "language": null,
+            "license": null,
             "last_commit": "2017-07-27T09:51:52Z",
+            "open_issues": 0,
             "owner": "shulard",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "questions"
+            ]
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1866,12 +2529,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": "https://blog.sindresorhus.com/answering-anything-678ce5623798",
             "id": 98759965,
             "language": null,
+            "license": null,
             "last_commit": "2017-05-16T16:49:28Z",
+            "open_issues": 0,
             "owner": "elizabethsiegle",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1882,12 +2550,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": "https://blog.sindresorhus.com/answering-anything-678ce5623798",
             "id": 99948545,
             "language": null,
+            "license": null,
             "last_commit": "2017-05-16T16:49:28Z",
+            "open_issues": 0,
             "owner": "chniter",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1898,12 +2571,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 101941261,
             "language": null,
+            "license": "MIT",
             "last_commit": "2017-08-31T00:43:46Z",
+            "open_issues": 1,
             "owner": "kevinjalbert",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1914,12 +2592,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 118613639,
             "language": null,
+            "license": null,
             "last_commit": "2017-05-16T16:49:28Z",
+            "open_issues": 0,
             "owner": "zommuter",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "42",
+              "ama",
+              "ask-me-anything",
+              "medical-physics",
+              "meta",
+              "music",
+              "numerics",
+              "parent",
+              "physics",
+              "programming",
+              "questions"
+            ]
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1930,12 +2625,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 124967054,
             "language": null,
+            "license": null,
             "last_commit": "2018-03-14T21:36:02Z",
+            "open_issues": 1,
             "owner": "pakastin",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1946,12 +2646,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 126666148,
             "language": null,
+            "license": null,
             "last_commit": "2018-03-25T05:19:16Z",
+            "open_issues": 0,
             "owner": "eftakhairul",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "ama",
+              "ask",
+              "ask-me-anything"
+            ]
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1962,12 +2671,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": "https://chaitanyagiri.github.io/",
             "id": 128535905,
             "language": null,
+            "license": null,
             "last_commit": "2018-04-07T14:42:15Z",
+            "open_issues": 0,
             "owner": "chaitanyagiri",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1978,12 +2692,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything! https://khendaniel.com",
+            "homepage": null,
             "id": 147436382,
             "language": null,
+            "license": null,
             "last_commit": "2018-09-05T00:30:21Z",
+            "open_issues": 0,
             "owner": "thekhenzie",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -1994,12 +2713,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": "https://blog.sindresorhus.com/answering-anything-678ce5623798",
             "id": 153982912,
             "language": null,
+            "license": null,
             "last_commit": "2018-10-21T08:08:31Z",
+            "open_issues": 0,
             "owner": "cylim",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -2010,12 +2734,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Ask Me Anything",
+            "homepage": null,
             "id": 162174448,
             "language": null,
+            "license": null,
             "last_commit": "2018-12-17T18:44:08Z",
+            "open_issues": 3,
             "owner": "fharper",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -2026,12 +2755,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hi. I am Eduards Sizovs. 👋 You can ask my anything there.",
+            "homepage": "https://sizovs.net",
             "id": 175412669,
             "language": null,
+            "license": null,
             "last_commit": "2019-03-13T12:24:19Z",
+            "open_issues": 0,
             "owner": "sizovs",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "ama",
+              "ask-me-anything",
+              "question-answering",
+              "questions",
+              "questions-and-answers"
+            ]
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -2042,12 +2782,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": "https://blog.sindresorhus.com/answering-anything-678ce5623798",
             "id": 187147200,
             "language": null,
+            "license": null,
             "last_commit": "2019-05-17T04:39:27Z",
+            "open_issues": 0,
             "owner": "simkimsia",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -2058,12 +2803,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Public AMA - not that I'm expecting a ton of questions but why not!",
+            "homepage": null,
             "id": 195828956,
             "language": null,
+            "license": null,
             "last_commit": "2019-08-17T02:08:06Z",
+            "open_issues": 1,
             "owner": "chrisotto6",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -2074,12 +2824,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything 🥑 !",
+            "homepage": null,
             "id": 240885003,
             "language": null,
+            "license": "MIT",
             "last_commit": "2021-04-19T03:05:21Z",
+            "open_issues": 0,
             "owner": "3imed-jaberi",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -2090,12 +2845,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": "https://plets.me",
             "id": 354387977,
             "language": null,
+            "license": null,
             "last_commit": "2021-04-05T15:25:00Z",
+            "open_issues": 0,
             "owner": "felipeplets",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -2106,12 +2866,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything !",
+            "homepage": null,
             "id": 631386226,
             "language": null,
+            "license": null,
             "last_commit": "2023-04-22T21:31:46Z",
+            "open_issues": 0,
             "owner": "AngeloDotNet",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -2122,12 +2887,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[[I'm slow at replying these days, but I hope to get back to answering questions eventually]] Ask me anything!",
+            "homepage": "https://blog.sindresorhus.com/answering-anything-678ce5623798",
             "id": 770877543,
             "language": null,
+            "license": null,
             "last_commit": "2024-03-12T10:32:24Z",
+            "open_issues": 0,
             "owner": "jheuing",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -2138,12 +2908,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything 💬",
+            "homepage": null,
             "id": 821938026,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-07-01T14:57:55Z",
+            "open_issues": 0,
             "owner": "sarvsav",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "ama",
+              "ask-me-anything",
+              "questions-and-answers"
+            ]
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         }
@@ -2160,12 +2939,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":thought_balloon: Civilized Discussion :speech_balloon:",
+            "homepage": "https://github.com/rubytaiwan/AMA",
             "id": 42987761,
             "language": null,
+            "license": null,
             "last_commit": "2015-10-14T07:22:15Z",
+            "open_issues": 13,
             "owner": "rubytaiwan",
             "repo": "AMA",
-            "stars": 114
+            "stars": 114,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -2176,12 +2960,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 43809109,
             "language": null,
+            "license": null,
             "last_commit": "2015-10-09T02:23:01Z",
+            "open_issues": 3,
             "owner": "DevOpsTW",
             "repo": "AMA",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -2192,12 +2981,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything ",
+            "homepage": "https://nikiv.dev",
             "id": 71655921,
             "language": null,
+            "license": null,
             "last_commit": "2025-12-20T02:49:44Z",
+            "open_issues": 0,
             "owner": "nikivdev",
             "repo": "ama",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "ama",
+              "ask-me-anything"
+            ]
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -2208,12 +3005,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Helping Ansible users in Taiwan with any questions.",
+            "homepage": "https://github.com/ansible-tw/ama/issues",
             "id": 71381620,
             "language": null,
+            "license": null,
             "last_commit": "2016-10-19T17:21:47Z",
+            "open_issues": 16,
             "owner": "ansible-tw",
             "repo": "AMA",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -2224,12 +3026,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask us anything !!",
+            "homepage": null,
             "id": 92670682,
             "language": null,
+            "license": "MIT",
             "last_commit": "2017-05-28T15:51:56Z",
+            "open_issues": 1,
             "owner": "iiitv",
             "repo": "aua",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "ama",
+              "aua",
+              "contribute-a-thon",
+              "hacktoberfest",
+              "iiit",
+              "iiitv",
+              "iiitvadodara"
+            ]
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -2240,12 +3055,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Helping vimmer in Taiwan with any questions.",
+            "homepage": "https://github.com/vim-tw/ama/issues",
             "id": 47526387,
             "language": null,
+            "license": null,
             "last_commit": "2015-12-11T08:45:07Z",
+            "open_issues": 3,
             "owner": "vim-tw",
             "repo": "ama",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -2256,12 +3076,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything! ",
+            "homepage": null,
             "id": 853783289,
             "language": null,
+            "license": null,
             "last_commit": "2024-09-07T14:25:36Z",
+            "open_issues": 0,
             "owner": "tj-commits",
             "repo": "ama",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -2272,12 +3097,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 42082297,
             "language": null,
+            "license": null,
             "last_commit": "2015-09-08T01:20:40Z",
+            "open_issues": 0,
             "owner": "codemonkeyhealth",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         },
@@ -2288,12 +3118,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
             "id": 50349466,
             "language": null,
+            "license": null,
             "last_commit": "2016-01-25T13:36:04Z",
+            "open_issues": 0,
             "owner": "fromthefront",
             "repo": "ama",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
         }
@@ -2302,15 +3137,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:33:52.237Z",
+    "last_updated": "2026-08-29T04:31:17.394Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome & Marvelous Amas",
+      "homepage": null,
       "id": 38531345,
       "language": null,
+      "license": null,
       "last_commit": "2024-12-01T04:31:29Z",
+      "open_issues": 0,
       "owner": "sindresorhus",
       "repo": "amas",
-      "stars": 1480
+      "stars": 1481,
+      "topics": [
+        "ama",
+        "ask",
+        "ask-me-anything",
+        "awesome",
+        "awesome-list",
+        "list",
+        "meta",
+        "question-answering"
+      ]
     },
     "original_repository_sha": "47eef7c55d9733e343c89b424b9d9893df5cbbdd",
     "enhanced_repository": "enhansome/enhansome-amas",

@@ -245,7 +245,7 @@
             "open_issues": 0,
             "owner": "nikivdev",
             "repo": "ama",
-            "stars": 37,
+            "stars": 38,
             "topics": [
               "ama",
               "ask-me-anything"
@@ -1719,7 +1719,7 @@
             "language": null,
             "license": null,
             "last_commit": "2017-03-14T18:47:32Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "olpeh",
             "repo": "ama",
             "stars": 1,
@@ -2990,7 +2990,7 @@
             "open_issues": 0,
             "owner": "nikivdev",
             "repo": "ama",
-            "stars": 37,
+            "stars": 38,
             "topics": [
               "ama",
               "ask-me-anything"
@@ -3137,7 +3137,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T12:13:31.943Z",
+    "last_updated": "2026-09-04T12:14:17.162Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome & Marvelous Amas",

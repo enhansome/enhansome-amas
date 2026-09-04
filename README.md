@@ -14,7 +14,7 @@
 * [Scott Hanselman](https://github.com/shanselman/ama) ⭐ 87 | 🐛 0 | 📅 2017-08-08 - Teacher, Podcaster, OSCON Chair, Developer, Open Source C# and .NET at Microsoft.
 * [Zeno Rocha](https://github.com/zenorocha/ama) ⭐ 71 | 🐛 1 | 📅 2015-10-21 - Developer Advocate at Liferay.
 * [Hugo Giraudel](https://github.com/hugogiraudel/ama) ⭐ 43 | 🐛 0 | 📅 2024-08-11 - CSS goblin, Sass hacker, margin psycho.
-* [Nikita Voloboev](https://github.com/nikitavoloboev/ama) ⭐ 37 | 🐛 0 | 📅 2025-12-20 - macOS enthusiast, open knowledge evangelist, writer, and an aspiring web developer.
+* [Nikita Voloboev](https://github.com/nikitavoloboev/ama) ⭐ 38 | 🐛 0 | 📅 2025-12-20 - macOS enthusiast, open knowledge evangelist, writer, and an aspiring web developer.
 * [Pascal Hartig](https://github.com/passy/ama) ⭐ 33 | 🐛 9 | 📅 2015-07-09 - Polyglot. Engineer at Twitter. Contributor to Yeoman, TodoMVC, WSK.
 * [Ariya Hidayat](https://github.com/ariya/ama) ⭐ 30 | 🐛 10 | 📅 2016-02-10 - VP of Engineering Shape Security, Author of Esprima and PhantomJS.
 * [Max Stoiber](https://github.com/mxstbr/ama) ⭐ 28 | 🐛 2 | 📅 2017-04-25 - Open source developer advocate at Thinkmill, developing KeystoneJS and ElementalUI. Creator of react-boilerplate, part of React Vienna.
@@ -82,7 +82,7 @@
 * [Joe Lencioni](https://github.com/lencioni/ama) ⭐ 1 | 🐛 0 | 📅 2016-05-07 - Building ImportJS and Diffux CI. Web infra at Airbnb.
 * [Francis Sunday](https://github.com/codehakase/ama) ⭐ 1 | 🐛 2 | 📅 2017-01-09 - Software Developer based in Port Harcourt, Nigeria.
 * [Travis Northcutt](https://github.com/tnorthcutt/ama) ⭐ 1 | 🐛 2 | 📅 2017-01-16 - Husband, dad, nomad, PHP developer.
-* [Olavi Haapala](https://github.com/olpeh/ama) ⭐ 1 | 🐛 0 | 📅 2017-03-14 - Web and mobile developer from Finland.
+* [Olavi Haapala](https://github.com/olpeh/ama) ⭐ 1 | 🐛 1 | 📅 2017-03-14 - Web and mobile developer from Finland.
 * [Rishi Pithadiya](https://github.com/rishiip/ama) ⭐ 1 | 🐛 0 | 📅 2018-05-22 - Full-stack Ruby on Rails developer in India, open source enthusiast.
 * [Hamza Baig](https://github.com/hamxabaig/ama) ⭐ 1 | 🐛 0 | 📅 2018-12-15 - Full-stack JavaScript engineer. Passionate about Artificial Intelligence.
 * [Greg Edelston](https://github.com/gredelston/ama) ⭐ 1 | 🐛 0 | 📅 2019-07-06 - Software engineer at Google. Zen Buddhist and improv lover.
@@ -182,7 +182,7 @@
 
 * [Ruby Taiwan](https://github.com/rubytaiwan/AMA) ⭐ 114 | 🐛 13 | 📅 2015-10-14 - Helping developers in Taiwan with any questions. Can ask in English or Chinese.
 * [DevOps Taiwan](https://github.com/DevOpsTW/AMA) ⭐ 42 | 🐛 3 | 📅 2015-10-09 - Helping DevOps engineers with any questions.
-* [Nikita Voloboev](https://github.com/nikitavoloboev/ama) ⭐ 37 | 🐛 0 | 📅 2025-12-20 - Loves making and sharing things. Building Learn Anything, Enpicom and tools.
+* [Nikita Voloboev](https://github.com/nikitavoloboev/ama) ⭐ 38 | 🐛 0 | 📅 2025-12-20 - Loves making and sharing things. Building Learn Anything, Enpicom and tools.
 * [Ansible Taiwan](https://github.com/ansible-tw/ama) ⭐ 33 | 🐛 16 | 📅 2016-10-19 - Helping Ansible users in Taiwan with any questions.
 * [IIIT Vadodara](https://github.com/iiitv/aua) ⭐ 18 | 🐛 1 | 📅 2017-05-28 - Open-source organization maintained by college students.
 * [Vim Taiwan](https://github.com/vim-tw/ama) ⭐ 16 | 🐛 3 | 📅 2015-12-11 - Helping vimmers in Taiwan with any questions.
@@ -208,4 +208,4 @@ To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._

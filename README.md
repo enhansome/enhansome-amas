@@ -136,7 +136,6 @@
 * [Imed Jaberi](https://github.com/3imed-jaberi/ama) ⭐ 0 | 🐛 0 | 📅 2021-04-19 - JavaScript dev, mentor, open source contributor, community builder, and speaker.
 * [Felipe Plets](https://github.com/felipeplets/ama) ⭐ 0 | 🐛 0 | 📅 2021-04-05 - Tech lead, open source contributor, and blogger.
 * [Angelo Pirola](https://github.com/angelodotnet/ama) ⭐ 0 | 🐛 0 | 📅 2023-04-22 - Microsoft (.NET) Backend Web Developer, GitHub contributor and based in Italy.
-* [Jan-Hendrik Heuing](https://github.com/jheuing/ama) ⭐ 0 | 🐛 0 | 📅 2024-03-12 - Developer, team lead, CTO, consultant.
 * [Sarvsav Sharma](https://github.com/sarvsav/ama) ⭐ 0 | 🐛 0 | 📅 2024-07-01 - Aspiring green software developer passionate about sustainable coding, specializing in Go.
 * [Stephen Sawchuk](https://github.com/stephenplusplus/ama) - Just having fun. Creator of wiredep, youmeyou. Helper of ^.
 * [Blain Smith](https://github.com/blainsmith/ama) - Partner/Engineer at MadGlory and Odd Networks. Rebel Geek.
@@ -177,6 +176,7 @@
 * [Arpit Mohan](https://dev.to/mohanarpit/i-am-a-yc-alumnus-3x-vc-funded-founder-cto-ama-4006) - Distributed Systems Engineer, Java and Golang developer, 3x CTO, blogger.
 * [TheTechRobo](https://github.com/thetechrobo/ama) - Hobbyist Python 3.x developer who corrects grammar so much he loses friends.
 * [Lali Akhil Raj](https://github.com/Lalisfeed/ama) - Creating stuff for web & AI.
+* [Jan-Hendrik Heuing](https://github.com/jheuing/ama) - Developer, team lead, CTO, consultant.
 
 #### Ask these organizations anything!
 
@@ -208,4 +208,4 @@ To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._

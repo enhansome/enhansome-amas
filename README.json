@@ -2882,27 +2882,6 @@
         },
         {
           "node_type": "item",
-          "title": "Jan-Hendrik Heuing",
-          "description": "Developer, team lead, CTO, consultant.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[[I'm slow at replying these days, but I hope to get back to answering questions eventually]] Ask me anything!",
-            "homepage": "https://blog.sindresorhus.com/answering-anything-678ce5623798",
-            "id": 770877543,
-            "language": null,
-            "license": null,
-            "last_commit": "2024-03-12T10:32:24Z",
-            "open_issues": 0,
-            "owner": "jheuing",
-            "repo": "ama",
-            "stars": 0,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T19:33:52.237Z"
-        },
-        {
-          "node_type": "item",
           "title": "Sarvsav Sharma",
           "description": "Aspiring green software developer passionate about sustainable coding, specializing in Go.",
           "children": [],
@@ -3137,7 +3116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T11:43:59.440Z",
+    "last_updated": "2026-09-07T13:38:46.958Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome & Marvelous Amas",

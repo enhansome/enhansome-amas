@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "holman",
             "repo": "ama",
-            "stars": 723,
+            "stars": 722,
             "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
@@ -63,7 +63,7 @@
             "language": null,
             "license": null,
             "last_commit": "2017-05-13T12:52:29Z",
-            "open_issues": 48,
+            "open_issues": 47,
             "owner": "rachelandrew",
             "repo": "cssgrid-ama",
             "stars": 328,
@@ -108,7 +108,7 @@
             "open_issues": 48,
             "owner": "gaearon",
             "repo": "ama",
-            "stars": 224,
+            "stars": 222,
             "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
@@ -3116,7 +3116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T12:15:44.350Z",
+    "last_updated": "2026-09-09T12:27:36.068Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome & Marvelous Amas",
@@ -3128,7 +3128,7 @@
       "open_issues": 0,
       "owner": "sindresorhus",
       "repo": "amas",
-      "stars": 1481,
+      "stars": 1480,
       "topics": [
         "ama",
         "ask",

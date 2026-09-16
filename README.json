@@ -129,7 +129,7 @@
             "open_issues": 154,
             "owner": "sindresorhus",
             "repo": "ama",
-            "stars": 144,
+            "stars": 145,
             "topics": [
               "ama",
               "answers",
@@ -3116,7 +3116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T12:51:06.113Z",
+    "last_updated": "2026-09-16T12:46:55.984Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome & Marvelous Amas",

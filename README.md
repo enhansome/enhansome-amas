@@ -13,7 +13,7 @@
 * [Mark Otto](https://github.com/mdo/ama) ⭐ 94 | 🐛 3 | 📅 2021-03-02 - Designer at GitHub. Creator of Bootstrap.
 * [Scott Hanselman](https://github.com/shanselman/ama) ⭐ 87 | 🐛 0 | 📅 2017-08-08 - Teacher, Podcaster, OSCON Chair, Developer, Open Source C# and .NET at Microsoft.
 * [Zeno Rocha](https://github.com/zenorocha/ama) ⭐ 71 | 🐛 1 | 📅 2015-10-21 - Developer Advocate at Liferay.
-* [Hugo Giraudel](https://github.com/hugogiraudel/ama) ⭐ 43 | 🐛 0 | 📅 2024-08-11 - CSS goblin, Sass hacker, margin psycho.
+* [Hugo Giraudel](https://github.com/hugogiraudel/ama) ⭐ 43 | 🐛 1 | 📅 2024-08-11 - CSS goblin, Sass hacker, margin psycho.
 * [Nikita Voloboev](https://github.com/nikitavoloboev/ama) ⭐ 38 | 🐛 0 | 📅 2025-12-20 - macOS enthusiast, open knowledge evangelist, writer, and an aspiring web developer.
 * [Pascal Hartig](https://github.com/passy/ama) ⭐ 33 | 🐛 9 | 📅 2015-07-09 - Polyglot. Engineer at Twitter. Contributor to Yeoman, TodoMVC, WSK.
 * [Ariya Hidayat](https://github.com/ariya/ama) ⭐ 30 | 🐛 10 | 📅 2016-02-10 - VP of Engineering Shape Security, Author of Esprima and PhantomJS.
@@ -208,4 +208,4 @@ To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._

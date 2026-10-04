@@ -126,7 +126,7 @@
             "language": null,
             "license": null,
             "last_commit": "2021-01-24T07:05:30Z",
-            "open_issues": 154,
+            "open_issues": 155,
             "owner": "sindresorhus",
             "repo": "ama",
             "stars": 145,
@@ -3116,7 +3116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T12:40:59.928Z",
+    "last_updated": "2026-10-04T13:24:19.130Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome & Marvelous Amas",

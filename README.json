@@ -221,7 +221,7 @@
             "language": null,
             "license": null,
             "last_commit": "2024-08-11T10:45:16Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "KittyGiraudel",
             "repo": "ama",
             "stars": 43,
@@ -3116,7 +3116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T13:24:19.130Z",
+    "last_updated": "2026-10-05T16:19:45.612Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome & Marvelous Amas",

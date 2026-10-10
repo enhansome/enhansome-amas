@@ -389,27 +389,6 @@
         },
         {
           "node_type": "item",
-          "title": "Nicholas C. Zakas",
-          "description": "Architect at Box, author, creator of ESLint.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Ask me anything!",
-            "homepage": null,
-            "id": 38948967,
-            "language": null,
-            "license": null,
-            "last_commit": "2015-11-02T15:52:20Z",
-            "open_issues": 0,
-            "owner": "nzakas",
-            "repo": "ama",
-            "stars": 15,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T19:33:52.237Z"
-        },
-        {
-          "node_type": "item",
           "title": "Artem Sapegin",
           "description": "Frontend developer at Here, creator of React Styleguidist and passionate photographer.",
           "children": [],
@@ -425,6 +404,27 @@
             "owner": "sapegin",
             "repo": "ama",
             "stars": 15,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T19:33:52.237Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Nicholas C. Zakas",
+          "description": "Architect at Box, author, creator of ESLint.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Ask me anything!",
+            "homepage": null,
+            "id": 38948967,
+            "language": null,
+            "license": null,
+            "last_commit": "2015-11-02T15:52:20Z",
+            "open_issues": 0,
+            "owner": "nzakas",
+            "repo": "ama",
+            "stars": 14,
             "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
@@ -3116,7 +3116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T14:34:30.561Z",
+    "last_updated": "2026-10-10T13:56:23.694Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome & Marvelous Amas",
@@ -3128,7 +3128,7 @@
       "open_issues": 0,
       "owner": "sindresorhus",
       "repo": "amas",
-      "stars": 1480,
+      "stars": 1479,
       "topics": [
         "ama",
         "ask",

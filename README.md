@@ -21,8 +21,8 @@
 * [Jon Kuperman](https://github.com/jkup/ama) ⭐ 23 | 🐛 5 | 📅 2016-02-12 - I love JavaScript! I blog at Codeplanet, make videos at Nodecasts and podcast at The Web Behind.
 * [Una Kravets](https://github.com/una/ama) ⭐ 17 | 🐛 0 | 📅 2015-07-10 - Front-end developer, Sass things, Dev communities & Open Source Design.
 * [Byungjin Park](https://github.com/posquit0/ama) ⭐ 17 | 🐛 2 | 📅 2021-02-17 - Software Architect, DevOps Engineer, Hacker, Open Sourcer.
-* [Nicholas C. Zakas](https://github.com/nzakas/ama) ⭐ 15 | 🐛 0 | 📅 2015-11-02 - Architect at Box, author, creator of ESLint.
 * [Artem Sapegin](https://github.com/sapegin/ama) ⭐ 15 | 🐛 0 | 📅 2024-12-09 - Frontend developer at Here, creator of React Styleguidist and passionate photographer.
+* [Nicholas C. Zakas](https://github.com/nzakas/ama) ⭐ 14 | 🐛 0 | 📅 2015-11-02 - Architect at Box, author, creator of ESLint.
 * [Lim Chee Aun](https://github.com/cheeaun/ama) ⭐ 11 | 🐛 9 | 📅 2015-07-08 - Product engineer. GitHub stargazer. Anime lover.
 * [Anselm Hannemann](https://github.com/anselmh/AMA) ⭐ 10 | 🐛 1 | 📅 2015-07-08 - Freelance front-end developer, author of WDRL, co-organizer of Nightlybuild.io.
 * [Ken Wheeler](https://github.com/kenwheeler/ama) ⭐ 10 | 🐛 2 | 📅 2017-04-25 - Professional American. Manchild.
@@ -208,4 +208,4 @@ To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._

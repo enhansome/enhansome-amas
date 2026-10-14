@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "holman",
             "repo": "ama",
-            "stars": 723,
+            "stars": 724,
             "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
@@ -108,7 +108,7 @@
             "open_issues": 48,
             "owner": "gaearon",
             "repo": "ama",
-            "stars": 222,
+            "stars": 223,
             "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
@@ -3116,7 +3116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T15:13:48.973Z",
+    "last_updated": "2026-10-14T13:01:24.393Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome & Marvelous Amas",
@@ -3128,7 +3128,7 @@
       "open_issues": 0,
       "owner": "sindresorhus",
       "repo": "amas",
-      "stars": 1479,
+      "stars": 1480,
       "topics": [
         "ama",
         "ask",

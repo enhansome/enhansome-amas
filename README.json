@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "holman",
             "repo": "ama",
-            "stars": 724,
+            "stars": 723,
             "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
@@ -3116,7 +3116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T12:48:26.080Z",
+    "last_updated": "2026-10-16T12:40:13.342Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome & Marvelous Amas",

@@ -37,7 +37,7 @@
 * [Graham Daniels](https://github.com/greydnls/ama) ⭐ 5 | 🐛 0 | 📅 2016-06-16 - Sr Software Engineer at Refinery29, US Lead for PHPWomen, Host of #NoCapes, Single dad. Brooklyn, NY.
 * [Gaurav Mehla](https://github.com/gauravmehla/ama) ⭐ 5 | 🐛 8 | 🌐 HTML | 📅 2017-08-17 - Full-stack developer, JS coder, open source contributor.
 * [Sean Killeen](https://github.com/SeanKilleen/ama) ⭐ 5 | 🐛 0 | 📅 2017-10-11 - .NET Lead & Managing Consultant at Excella. Speaker, blogger, tech lead. Would love to talk .NET, modernization, distributed systems, public speaking, musical theatre, and really pretty much anything else.
-* [Omar Bahareth](https://github.com/obahareth/ama) ⭐ 5 | 🐛 0 | 📅 2021-01-03 - Head of Software Engineering at Tam, mentor, full-stack developer, currently heavily into Ruby and Elixir, and slowly getting into Go and Rust. Located in Saudi Arabia.
+* [Omar Bahareth](https://github.com/obahareth/ama) ⚠️ Archived - Head of Software Engineering at Tam, mentor, full-stack developer, currently heavily into Ruby and Elixir, and slowly getting into Go and Rust. Located in Saudi Arabia.
 * [Cassie McDaniel](https://github.com/cassiemc/ama) ⚠️ Archived - Design Director for Mozilla Foundation, cofounder of Women&\&Tech, speaker and writer.
 * [Matthew Mueller](https://github.com/matthewmueller/ama) ⭐ 4 | 🐛 1 | 📅 2015-07-10 - Creator of Cheerio, Duo, and a few other node modules.
 * [JD Ballard](https://github.com/Qix-/ama) ⭐ 4 | 🐛 0 | 📅 2015-07-10 - Idaho native, Chalk collaborator, sunshine burns us. Likes hypotheticals, dislikes bees.
@@ -184,7 +184,7 @@
 * [DevOps Taiwan](https://github.com/DevOpsTW/AMA) ⭐ 42 | 🐛 3 | 📅 2015-10-09 - Helping DevOps engineers with any questions.
 * [Nikita Voloboev](https://github.com/nikitavoloboev/ama) ⭐ 38 | 🐛 0 | 📅 2025-12-20 - Loves making and sharing things. Building Learn Anything, Enpicom and tools.
 * [Ansible Taiwan](https://github.com/ansible-tw/ama) ⭐ 33 | 🐛 16 | 📅 2016-10-19 - Helping Ansible users in Taiwan with any questions.
-* [IIIT Vadodara](https://github.com/iiitv/aua) ⭐ 18 | 🐛 1 | 📅 2017-05-28 - Open-source organization maintained by college students.
+* [IIIT Vadodara](https://github.com/iiitv/aua) ⭐ 18 | 🐛 2 | 📅 2017-05-28 - Open-source organization maintained by college students.
 * [Vim Taiwan](https://github.com/vim-tw/ama) ⭐ 16 | 🐛 3 | 📅 2015-12-11 - Helping vimmers in Taiwan with any questions.
 * [S Fox Jones](https://github.com/tj-commits/ama) ⭐ 2 | 🐛 0 | 📅 2024-09-07 - Full stack developer, independent author, and JavaScript lover.
 * [Code Monkey Health](https://github.com/codemonkeyhealth/ama) ⭐ 0 | 🐛 0 | 📅 2015-09-08 - Helping developers and others with tips, tricks, recipes and programs focused on Lifestyle, Exercise, Attitude and Food LEAF.
@@ -208,4 +208,4 @@ To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._

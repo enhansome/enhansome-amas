@@ -741,13 +741,13 @@
           "description": "Head of Software Engineering at Tam, mentor, full-stack developer, currently heavily into Ruby and Elixir, and slowly getting into Go and Rust. Located in Saudi Arabia.",
           "children": [],
           "repo_info": {
-            "archived": false,
-            "description": "Ask me anything! https://omar.engineer",
+            "archived": true,
+            "description": "Ask me anything! https://omar.engineer/ama",
             "homepage": null,
             "id": 150999336,
             "language": null,
             "license": "MIT",
-            "last_commit": "2021-01-03T00:00:43Z",
+            "last_commit": "2026-10-20T18:19:33Z",
             "open_issues": 0,
             "owner": "obahareth",
             "repo": "ama",
@@ -3011,7 +3011,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2017-05-28T15:51:56Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "iiitv",
             "repo": "aua",
             "stars": 18,
@@ -3116,7 +3116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T12:54:48.794Z",
+    "last_updated": "2026-10-21T13:08:15.517Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome & Marvelous Amas",

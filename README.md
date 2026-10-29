@@ -6,7 +6,7 @@
 
 * [Zach Holman](https://github.com/holman/feedback) ⭐ 723 | 🐛 1 | 📅 2021-02-23 - Developer and speaker. Previously worked at GitHub.
 * [Kent C. Dodds](https://github.com/kentcdodds/ama) ⚠️ Archived - JavaScript dev, open source contributor, community builder, and speaker.
-* [Rachel Andrew](https://github.com/rachelandrew/cssgrid-ama) ⭐ 328 | 🐛 47 | 📅 2017-05-13 - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS.
+* [Rachel Andrew](https://github.com/rachelandrew/cssgrid-ama) ⭐ 327 | 🐛 47 | 📅 2017-05-13 - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS.
 * [Wes Bos](https://github.com/wesbos/ama) ⭐ 286 | 🐛 69 | 📅 2016-11-02 - Full stack developer, independent author, speaker, teacher and JavaScripter.
 * [Dan Abramov](https://github.com/gaearon/ama) ⭐ 223 | 🐛 48 | 📅 2015-09-14 - JavaScript and React hobbyist, creator of React Hot Loader and Redux.
 * [Sindre Sorhus](https://github.com/sindresorhus/ama) ⭐ 145 | 🐛 155 | 📅 2021-01-24 - Full-time open-sourcerer. Maker of many npm packages and apps.
@@ -208,4 +208,4 @@ To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._

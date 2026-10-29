@@ -40,7 +40,7 @@
             "open_issues": 128,
             "owner": "kentcdodds",
             "repo": "ama",
-            "stars": 683,
+            "stars": 682,
             "topics": [
               "ama",
               "answers",
@@ -66,7 +66,7 @@
             "open_issues": 47,
             "owner": "rachelandrew",
             "repo": "cssgrid-ama",
-            "stars": 328,
+            "stars": 327,
             "topics": []
           },
           "first_seen": "2026-08-28T19:33:52.237Z"
@@ -3116,7 +3116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T14:23:06.398Z",
+    "last_updated": "2026-10-29T14:36:40.705Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome & Marvelous Amas",

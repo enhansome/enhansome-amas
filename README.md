@@ -4,7 +4,7 @@
 
 #### Ask these people anything!
 
-* [Zach Holman](https://github.com/holman/feedback) ⭐ 723 | 🐛 1 | 📅 2021-02-23 - Developer and speaker. Previously worked at GitHub.
+* [Zach Holman](https://github.com/holman/feedback) ⭐ 722 | 🐛 1 | 📅 2021-02-23 - Developer and speaker. Previously worked at GitHub.
 * [Kent C. Dodds](https://github.com/kentcdodds/ama) ⚠️ Archived - JavaScript dev, open source contributor, community builder, and speaker.
 * [Rachel Andrew](https://github.com/rachelandrew/cssgrid-ama) ⭐ 327 | 🐛 47 | 📅 2017-05-13 - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS.
 * [Wes Bos](https://github.com/wesbos/ama) ⭐ 286 | 🐛 69 | 📅 2016-11-02 - Full stack developer, independent author, speaker, teacher and JavaScripter.
@@ -26,7 +26,7 @@
 * [Lim Chee Aun](https://github.com/cheeaun/ama) ⭐ 11 | 🐛 9 | 📅 2015-07-08 - Product engineer. GitHub stargazer. Anime lover.
 * [Anselm Hannemann](https://github.com/anselmh/AMA) ⭐ 10 | 🐛 1 | 📅 2015-07-08 - Freelance front-end developer, author of WDRL, co-organizer of Nightlybuild.io.
 * [Ken Wheeler](https://github.com/kenwheeler/ama) ⭐ 10 | 🐛 2 | 📅 2017-04-25 - Professional American. Manchild.
-* [Ali Spittel](https://github.com/aspittel/ama) ⭐ 9 | 🐛 5 | 📅 2018-08-14 - Teaching code, Python and JavaScript developer, blogger.
+* [Ali Spittel](https://github.com/aspittel/ama) ⭐ 10 | 🐛 6 | 📅 2018-08-14 - Teaching code, Python and JavaScript developer, blogger.
 * [Mikola Lysenko](https://github.com/mikolalysenko/ama) ⭐ 8 | 🐛 2 | 📅 2015-07-08 - Geometry vagrant.
 * [Krzysztof Cieslak](https://github.com/Krzysztof-Cieslak/AMA) ⭐ 8 | 🐛 5 | 📅 2022-07-12 - Software developer, consultant, founder of Lambda Factory, author of Ionide, Forge, Fornax, project owner and maintainer of VSCode-Elm, contributor to many OSS projects, international speaker.
 * [Fabio Spampinato](https://github.com/fabiospampinato/ama) ⭐ 7 | 🐛 0 | 📅 2023-03-07 - Self-taught full-stack developer passionate about open source and empowering people.
@@ -208,4 +208,4 @@ To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
